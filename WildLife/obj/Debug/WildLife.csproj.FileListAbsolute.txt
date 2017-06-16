@@ -1,0 +1,6 @@
+c:\users\dv\documents\visual studio 2017\Projects\WildLife\WildLife\bin\Debug\WildLife.exe.config
+c:\users\dv\documents\visual studio 2017\Projects\WildLife\WildLife\bin\Debug\WildLife.exe
+c:\users\dv\documents\visual studio 2017\Projects\WildLife\WildLife\bin\Debug\WildLife.pdb
+c:\users\dv\documents\visual studio 2017\Projects\WildLife\WildLife\obj\Debug\WildLife.csprojResolveAssemblyReference.cache
+c:\users\dv\documents\visual studio 2017\Projects\WildLife\WildLife\obj\Debug\WildLife.exe
+c:\users\dv\documents\visual studio 2017\Projects\WildLife\WildLife\obj\Debug\WildLife.pdb
