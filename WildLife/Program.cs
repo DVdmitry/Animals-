@@ -10,7 +10,7 @@ namespace WildLife
     {
         static void Main(string[] args)
         {
-            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.ForegroundColor = ConsoleColor.DarkBlue;
             Field myField = new Field();
             Rabbit bobRabbit = new Rabbit(1, Gender.RabbitBoy);
             int deadRabbitsQuantity = 0;
